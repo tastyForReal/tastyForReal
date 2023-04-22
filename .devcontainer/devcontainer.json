@@ -1,0 +1,11 @@
+{
+    "customizations": {
+        "vscode": {
+            "extensions": ["Siris01.ayu-green"]
+        }
+    },
+    "image": "mcr.microsoft.com/devcontainers/python:3",
+    "features": {
+        "ghcr.io/devcontainers/features/nvidia-cuda:1": {}
+    }
+}
