@@ -1,9 +1,0 @@
-{
-    "customizations": {
-        "vscode": {
-            "extensions": ["Siris01.ayu-green", "dbaeumer.vscode-eslint", "EditorConfig.EditorConfig", "dzannotti.vscode-babel-coloring", "amazonwebservices.aws-toolkit-vscode", "esbenp.prettier-vscode"]
-        }
-    },
-    "image": "mcr.microsoft.com/devcontainers/universal:dev",
-    "features": {}
-}
